@@ -1,12 +1,6 @@
-# API Security: Anomaly Detection App
-
-> [!WARNING]
-> All the metrics, plots, and insights are made up and taken from the internet
-
-![network header](assets/header.png)
+# Customer Lifetime Modeling (this project is a work in progress)
 
 ## **BGNBD_analysis**
-### Refer to the following few sections for background.
 
 ## Dataset
 
